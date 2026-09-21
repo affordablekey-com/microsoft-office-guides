@@ -1,4 +1,6 @@
 # microsoft-office-guides
+- [Office 2024 Buying Guide](./office-2024-buying-guide.md)
+
 Practical Microsoft Office guides, tips, troubleshooting, and helpful resources for Word, Excel, and PowerPoint users.
 ## 🔗 Related Guides
 
